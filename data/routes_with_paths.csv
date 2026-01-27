@@ -1,0 +1,11 @@
+source,destination,distance_km,congestion_level,accidents,time_of_day,route_id,path
+T Nagar,Guindy,14,Medium,0,Morning,R1,"[[13.0424, 80.2338], [13.0108, 80.2206]]"
+Anna Nagar,Koyambedu,4,Medium,0,Afternoon,R2,"[[13.0878, 80.2103], [13.0696, 80.2116]]"
+Velachery,T Nagar,9,Medium,0,Night,R3,"[[12.9795, 80.2214], [13.0424, 80.2338]]"
+Tambaram,Guindy,20,Medium,0,Morning,R4,"[[12.9250, 80.1181], [13.0108, 80.2206]]"
+Guindy,Koyambedu,13,Medium,0,Evening,R5,"[[13.0108, 80.2206], [13.0696, 80.2116]]"
+Anna Nagar,Guindy,15,Medium,0,Morning,R6,"[[13.0878, 80.2103], [13.0108, 80.2206]]"
+Chrompet,T Nagar,17,Medium,0,Afternoon,R7,"[[12.9507, 80.1496], [13.0424, 80.2338]]"
+Koyambedu,Velachery,0,Medium,0,Evening,R8,"[[13.0696, 80.2116], [12.9795, 80.2214]]"
+Adyar,Marina Beach,0,Medium,0,Morning,R9,"[[13.0067, 80.2573], [13.0416, 80.2824]]"
+Egmore,Central,0,Medium,0,Afternoon,R10,"[[13.0732, 80.2607], [13.0827, 80.2707]]"

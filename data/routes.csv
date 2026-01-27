@@ -1,0 +1,18 @@
+source,destination,distance_km,congestion_level,accidents,time_of_day,route_id
+T Nagar,Guindy,4.5,High,5,Morning,R1
+T Nagar,Guindy,5.2,Medium,3,Morning,R2
+T Nagar,Guindy,6.0,Low,1,Morning,R3
+Anna Nagar,Koyambedu,4.8,Medium,2,Afternoon,R4
+Anna Nagar,Koyambedu,5.4,High,4,Afternoon,R5
+Velachery,T Nagar,7.0,Medium,3,Night,R6
+Velachery,T Nagar,6.5,High,4,Night,R7
+Tambaram,Guindy,13.2,High,5,Morning,R8
+Tambaram,Guindy,14.0,Medium,3,Morning,R9
+Guindy,Koyambedu,10.5,Low,2,Evening,R10
+Guindy,Koyambedu,11.1,Medium,3,Evening,R11
+Anna Nagar,Guindy,6.8,High,5,Morning,R12
+Anna Nagar,Guindy,7.3,Medium,3,Morning,R13
+Chrompet,T Nagar,10.4,Medium,4,Afternoon,R14
+Chrompet,T Nagar,9.9,Low,2,Afternoon,R15
+Koyambedu,Velachery,11.5,Medium,3,Evening,R16
+Koyambedu,Velachery,12.0,High,5,Evening,R17

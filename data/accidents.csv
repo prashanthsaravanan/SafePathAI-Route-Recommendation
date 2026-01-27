@@ -1,0 +1,9 @@
+location,latitude,longitude,accident_count,time_of_day
+Guindy,13.0108,80.2206,5,Morning
+Anna Nagar,13.0878,80.2103,2,Evening
+T Nagar,13.0424,80.2338,4,Morning
+Velachery,12.9795,80.2214,3,Night
+Tambaram,12.9250,80.1181,5,Afternoon
+Chrompet,12.9507,80.1496,6,Morning
+Koyambedu,13.0696,80.2116,2,Evening
+Nungambakkam,13.0614,80.2426,3,Evening
