@@ -27,3 +27,6 @@ using data analysis and machine learning.
 ## Use Case
 This project can be used in smart city applications
 to improve travel safety.
+
+## Output Screenshots
+![Output](screenshots/your_image_name.png)
